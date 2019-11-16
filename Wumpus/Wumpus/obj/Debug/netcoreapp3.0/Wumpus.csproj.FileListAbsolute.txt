@@ -1,0 +1,11 @@
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.exe
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.deps.json
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.runtimeconfig.json
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.runtimeconfig.dev.json
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.dll
+C:\sourcen\FirstProjects\Wumpus\Wumpus\bin\Debug\netcoreapp3.0\Wumpus.pdb
+C:\sourcen\FirstProjects\Wumpus\Wumpus\obj\Debug\netcoreapp3.0\Wumpus.csprojAssemblyReference.cache
+C:\sourcen\FirstProjects\Wumpus\Wumpus\obj\Debug\netcoreapp3.0\Wumpus.AssemblyInfoInputs.cache
+C:\sourcen\FirstProjects\Wumpus\Wumpus\obj\Debug\netcoreapp3.0\Wumpus.AssemblyInfo.cs
+C:\sourcen\FirstProjects\Wumpus\Wumpus\obj\Debug\netcoreapp3.0\Wumpus.dll
+C:\sourcen\FirstProjects\Wumpus\Wumpus\obj\Debug\netcoreapp3.0\Wumpus.pdb
