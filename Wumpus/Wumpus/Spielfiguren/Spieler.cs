@@ -55,11 +55,12 @@ namespace Wumpus.Spielfiguren
             }
         }
 
-
         public override void Sterben()
         {
             throw new NotImplementedException();
         }
+
+
 
     }
 }

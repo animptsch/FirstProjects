@@ -15,6 +15,11 @@ namespace Wumpus.Spielfiguren
 
         public int Leben { get; set; }
 
+        public Figur()
+        {
+            Position = new Position();
+        }
+
 
         public abstract void Sterben();
 

@@ -22,5 +22,10 @@ namespace Wumpus.Spielfiguren
         {
             throw new NotImplementedException();
         }
+
+        public override string ToString()
+        {
+            return "ein Raptor";
+        }
     }
 }
